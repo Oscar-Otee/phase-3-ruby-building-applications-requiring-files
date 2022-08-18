@@ -3,3 +3,4 @@ describe Garden do
     expect { Garden.new(name: 'Front Lawn').plants }.not_to raise_error
   end
 end
+
